@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "ESNext",
+    "composite": true,
+    "declaration": true,
+    "rootDir": ".",
+    "outDir": "target",
+    "baseUrl": "./src",
+    "strict": true,
+    "isolatedModules": true
+  },
+  "include": []
+}

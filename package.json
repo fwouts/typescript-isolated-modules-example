@@ -1,0 +1,6 @@
+{
+  "name": "tsserver-debug",
+  "devDependencies": {
+    "typescript": "^4"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "include": ["**/*.*"],
+  "references": [{ "path": "../a" }],
+  "extends": "../../tsconfig.build.json"
+}
